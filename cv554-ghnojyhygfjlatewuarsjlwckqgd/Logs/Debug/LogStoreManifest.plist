@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1DBC9973-F0CC-4D8B-9F91-9841F5432E75</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1DBC9973-F0CC-4D8B-9F91-9841F5432E75.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931688.59891498</real>
+			<key>timeStoppedRecording</key>
+			<real>565931737.06140006</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>1DBC9973-F0CC-4D8B-9F91-9841F5432E75</string>
+		</dict>
+		<key>26D7709A-1DE9-49C2-9583-1F3775F2A1AE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26D7709A-1DE9-49C2-9583-1F3775F2A1AE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931836.38484704</real>
+			<key>timeStoppedRecording</key>
+			<real>565931879.25386596</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>26D7709A-1DE9-49C2-9583-1F3775F2A1AE</string>
+		</dict>
+		<key>2ECFF8E7-8BEC-4CFF-9C0D-87A59F2F825F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2ECFF8E7-8BEC-4CFF-9C0D-87A59F2F825F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933894.75424802</real>
+			<key>timeStoppedRecording</key>
+			<real>565933919.21118498</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>2ECFF8E7-8BEC-4CFF-9C0D-87A59F2F825F</string>
+		</dict>
+		<key>42C4EE69-2C9E-42F3-BDE5-B6373E90E135</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>42C4EE69-2C9E-42F3-BDE5-B6373E90E135.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565934165.61826003</real>
+			<key>timeStoppedRecording</key>
+			<real>565934236.054142</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>42C4EE69-2C9E-42F3-BDE5-B6373E90E135</string>
+		</dict>
+		<key>4D3CD7DB-8C41-4840-90AA-BDD6FCA86305</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4D3CD7DB-8C41-4840-90AA-BDD6FCA86305.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565918144.16170704</real>
+			<key>timeStoppedRecording</key>
+			<real>565918169.81530404</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>4D3CD7DB-8C41-4840-90AA-BDD6FCA86305</string>
+		</dict>
+		<key>506EAF21-A4A6-4465-B9D8-9C83D512C8B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>506EAF21-A4A6-4465-B9D8-9C83D512C8B2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565630583.35407495</real>
+			<key>timeStoppedRecording</key>
+			<real>565630587.59038305</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>506EAF21-A4A6-4465-B9D8-9C83D512C8B2</string>
+		</dict>
+		<key>55FE466A-BB93-4D24-A4E4-3130B7E1D7BB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>55FE466A-BB93-4D24-A4E4-3130B7E1D7BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565934149.83869696</real>
+			<key>timeStoppedRecording</key>
+			<real>565934164.90055394</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>55FE466A-BB93-4D24-A4E4-3130B7E1D7BB</string>
+		</dict>
+		<key>601A53A2-E40D-44D0-8534-55CF16E597DB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>601A53A2-E40D-44D0-8534-55CF16E597DB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565917849.471452</real>
+			<key>timeStoppedRecording</key>
+			<real>565917893.54217601</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>601A53A2-E40D-44D0-8534-55CF16E597DB</string>
+		</dict>
+		<key>6362614B-22CB-4ECB-99B4-BBA81C5F2B6F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6362614B-22CB-4ECB-99B4-BBA81C5F2B6F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933942.98678803</real>
+			<key>timeStoppedRecording</key>
+			<real>565934079.59176302</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>6362614B-22CB-4ECB-99B4-BBA81C5F2B6F</string>
+		</dict>
+		<key>7BCD0F20-6312-4CB1-86E3-F9C65B387075</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7BCD0F20-6312-4CB1-86E3-F9C65B387075.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933869.870332</real>
+			<key>timeStoppedRecording</key>
+			<real>565933879.03812397</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>7BCD0F20-6312-4CB1-86E3-F9C65B387075</string>
+		</dict>
+		<key>7DFEEFB6-1CBA-43FB-BDC8-1938A6B8B628</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7DFEEFB6-1CBA-43FB-BDC8-1938A6B8B628.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931651.37948298</real>
+			<key>timeStoppedRecording</key>
+			<real>565931667.91852605</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>7DFEEFB6-1CBA-43FB-BDC8-1938A6B8B628</string>
+		</dict>
+		<key>8F354E8D-7069-4C75-8123-7E5AF9AC3A29</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8F354E8D-7069-4C75-8123-7E5AF9AC3A29.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933842.22504604</real>
+			<key>timeStoppedRecording</key>
+			<real>565933858.839957</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>8F354E8D-7069-4C75-8123-7E5AF9AC3A29</string>
+		</dict>
+		<key>A718650E-D1F6-4DA1-862D-5798C17F7359</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A718650E-D1F6-4DA1-862D-5798C17F7359.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565941889.714504</real>
+			<key>timeStoppedRecording</key>
+			<real>565941906.87176394</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>A718650E-D1F6-4DA1-862D-5798C17F7359</string>
+		</dict>
+		<key>B0757528-FD91-4D9B-881B-1D33884BA356</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B0757528-FD91-4D9B-881B-1D33884BA356.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931570.13984299</real>
+			<key>timeStoppedRecording</key>
+			<real>565931589.75567198</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>B0757528-FD91-4D9B-881B-1D33884BA356</string>
+		</dict>
+		<key>BB8F306C-471E-4F9F-8B04-5E56A561AA20</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BB8F306C-471E-4F9F-8B04-5E56A561AA20.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565941669.63043296</real>
+			<key>timeStoppedRecording</key>
+			<real>565941672.04770398</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>BB8F306C-471E-4F9F-8B04-5E56A561AA20</string>
+		</dict>
+		<key>C93075E2-D1C8-43DA-8B1D-90B2BC0A1969</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C93075E2-D1C8-43DA-8B1D-90B2BC0A1969.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931604.38514805</real>
+			<key>timeStoppedRecording</key>
+			<real>565931626.34117997</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>C93075E2-D1C8-43DA-8B1D-90B2BC0A1969</string>
+		</dict>
+		<key>DE91703B-DDE2-4CD4-A4DD-C893C9635BEC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DE91703B-DDE2-4CD4-A4DD-C893C9635BEC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565941762.84681106</real>
+			<key>timeStoppedRecording</key>
+			<real>565941763.97528899</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>DE91703B-DDE2-4CD4-A4DD-C893C9635BEC</string>
+		</dict>
+		<key>E828DDF1-FF98-4F38-B788-A058C0A9B4BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E828DDF1-FF98-4F38-B788-A058C0A9B4BC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565935045.26847696</real>
+			<key>timeStoppedRecording</key>
+			<real>565935049.03786695</real>
+			<key>title</key>
+			<string>Debug cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>E828DDF1-FF98-4F38-B788-A058C0A9B4BC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

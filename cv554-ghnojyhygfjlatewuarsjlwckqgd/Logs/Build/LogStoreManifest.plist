@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>09F246FB-7A0C-4963-ABC8-F2B011B8D8EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09F246FB-7A0C-4963-ABC8-F2B011B8D8EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931649.73352802</real>
+			<key>timeStoppedRecording</key>
+			<real>565931651.40192401</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>09F246FB-7A0C-4963-ABC8-F2B011B8D8EF</string>
+		</dict>
+		<key>1C7D3319-85BE-4748-B40F-12820E8D28C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C7D3319-85BE-4748-B40F-12820E8D28C2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931834.94626498</real>
+			<key>timeStoppedRecording</key>
+			<real>565931836.41279995</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>1C7D3319-85BE-4748-B40F-12820E8D28C2</string>
+		</dict>
+		<key>35BE8F23-60F7-4B4D-8A21-1D2347ED1DAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35BE8F23-60F7-4B4D-8A21-1D2347ED1DAC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931602.91213596</real>
+			<key>timeStoppedRecording</key>
+			<real>565931604.49639201</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>35BE8F23-60F7-4B4D-8A21-1D2347ED1DAC</string>
+		</dict>
+		<key>4D0C5AF6-2340-46B6-941E-861E5136DDD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D0C5AF6-2340-46B6-941E-861E5136DDD0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565941888.31740105</real>
+			<key>timeStoppedRecording</key>
+			<real>565941889.969558</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>4D0C5AF6-2340-46B6-941E-861E5136DDD0</string>
+		</dict>
+		<key>529326F5-8082-463F-A81B-80249BC1BC93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>529326F5-8082-463F-A81B-80249BC1BC93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565935043.73508203</real>
+			<key>timeStoppedRecording</key>
+			<real>565935045.29485404</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>529326F5-8082-463F-A81B-80249BC1BC93</string>
+		</dict>
+		<key>5560FEFD-44C3-4672-944F-AF195E8D0DAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5560FEFD-44C3-4672-944F-AF195E8D0DAB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565917847.05624795</real>
+			<key>timeStoppedRecording</key>
+			<real>565917849.55312002</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>5560FEFD-44C3-4672-944F-AF195E8D0DAB</string>
+		</dict>
+		<key>55E294A4-368E-47B4-B3B3-B0C3679355A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55E294A4-368E-47B4-B3B3-B0C3679355A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565630583.274207</real>
+			<key>timeStoppedRecording</key>
+			<real>565630583.57959604</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>55E294A4-368E-47B4-B3B3-B0C3679355A7</string>
+		</dict>
+		<key>5A4BD074-A1E5-469E-B452-C7C528466E02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A4BD074-A1E5-469E-B452-C7C528466E02.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565934165.59228003</real>
+			<key>timeStoppedRecording</key>
+			<real>565934165.73541605</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>5A4BD074-A1E5-469E-B452-C7C528466E02</string>
+		</dict>
+		<key>7C2CF8BF-B520-4B50-BD36-10D2363848A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C2CF8BF-B520-4B50-BD36-10D2363848A3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933868.20561397</real>
+			<key>timeStoppedRecording</key>
+			<real>565933869.90316796</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>7C2CF8BF-B520-4B50-BD36-10D2363848A3</string>
+		</dict>
+		<key>86743D2F-72F4-4131-8309-65F68FF24BAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86743D2F-72F4-4131-8309-65F68FF24BAF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933941.18235397</real>
+			<key>timeStoppedRecording</key>
+			<real>565933943.00907505</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>86743D2F-72F4-4131-8309-65F68FF24BAF</string>
+		</dict>
+		<key>9C5B5422-62A6-4FF6-BCFB-E92504875CEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C5B5422-62A6-4FF6-BCFB-E92504875CEA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565918142.59582996</real>
+			<key>timeStoppedRecording</key>
+			<real>565918144.18719804</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>9C5B5422-62A6-4FF6-BCFB-E92504875CEA</string>
+		</dict>
+		<key>A357BA12-F22A-41AA-9F71-73E74B99B189</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A357BA12-F22A-41AA-9F71-73E74B99B189.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565941761.23971903</real>
+			<key>timeStoppedRecording</key>
+			<real>565941762.975721</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>A357BA12-F22A-41AA-9F71-73E74B99B189</string>
+		</dict>
+		<key>A8271B30-4D23-45E1-AA56-99FA019D2D88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A8271B30-4D23-45E1-AA56-99FA019D2D88.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565934148.11115205</real>
+			<key>timeStoppedRecording</key>
+			<real>565934149.86499405</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>A8271B30-4D23-45E1-AA56-99FA019D2D88</string>
+		</dict>
+		<key>A94DA7EE-254D-450B-A5B0-A68F7F72D8F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A94DA7EE-254D-450B-A5B0-A68F7F72D8F2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933840.66274798</real>
+			<key>timeStoppedRecording</key>
+			<real>565933842.24794805</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>A94DA7EE-254D-450B-A5B0-A68F7F72D8F2</string>
+		</dict>
+		<key>DB88D75B-43EE-4099-A226-1D60E55CBAA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB88D75B-43EE-4099-A226-1D60E55CBAA8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565941667.94375396</real>
+			<key>timeStoppedRecording</key>
+			<real>565941669.65173399</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>DB88D75B-43EE-4099-A226-1D60E55CBAA8</string>
+		</dict>
+		<key>DEF31419-467B-400D-A5B3-80200408AE54</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEF31419-467B-400D-A5B3-80200408AE54.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931568.42639005</real>
+			<key>timeStoppedRecording</key>
+			<real>565931570.27643704</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>DEF31419-467B-400D-A5B3-80200408AE54</string>
+		</dict>
+		<key>F1036CFC-986E-4B28-86E9-B6EC48CA7C23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1036CFC-986E-4B28-86E9-B6EC48CA7C23.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565931687.21647203</real>
+			<key>timeStoppedRecording</key>
+			<real>565931688.63634396</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>F1036CFC-986E-4B28-86E9-B6EC48CA7C23</string>
+		</dict>
+		<key>FF191D19-91BB-4D5E-AA1F-2312F199B578</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF191D19-91BB-4D5E-AA1F-2312F199B578.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv554 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv554</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv554</string>
+			<key>timeStartedRecording</key>
+			<real>565933893.10345602</real>
+			<key>timeStoppedRecording</key>
+			<real>565933894.79039705</real>
+			<key>title</key>
+			<string>Build cv554</string>
+			<key>uniqueIdentifier</key>
+			<string>FF191D19-91BB-4D5E-AA1F-2312F199B578</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
